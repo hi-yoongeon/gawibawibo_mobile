@@ -2,3 +2,5 @@ tmp
 .settings
 build
 build/**/*
+.project
+.gitignore
